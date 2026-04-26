@@ -1,83 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sanidhya Shishodia</h1>
-<h3 align="center">AI Builder | Agentic Systems | Full-Stack | Hackathon Winner</h3>
+<div align="center">
+
+# Sanidhya Shishodia
+
+**AI builder. Agentic systems. Ships fast.**
+
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/iisanidhya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanidhya-shishodia/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dev-sanidhya)
+
+</div>
 
 ---
 
-### 🚀 About Me
+B.Tech AI & ML @ VIPS, New Delhi. I build AI agents, win hackathons, and mentor the next wave of open source contributors as an **OWASP mentor at GSoC 2026**.
 
-- 🎓 B.Tech AI & ML @ **VIPS, New Delhi** - passionate about **AI Agents, Web3, and Scalable Systems**
-- 🛡️ **OWASP Mentor** - Google Summer of Code 2026
-- 🤖 Building with **Claude Agent SDK**, **MCP Protocol**, and **Multi-Agent Orchestration**
-- 🏆 Won **4 National Hackathons** (1500+ teams each) | Finalist in 7+
-- 📈 Active Trader | Building FinTech solutions for smarter finance
-- ⚡ Fun fact: I ship fast, break things intentionally, and win hackathons doing it
+Currently deep in multi-agent orchestration, MCP protocol, and on-chain AI systems. I don't just use the stack - I build on top of it.
 
 ---
 
-### 🛠 Tech Stack
+### What I work with
 
-#### Languages & Frameworks:
+**Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
-#### AI / ML:
+**AI / Agents**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-#### Tools & Platforms:
+**Stack**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-sanidhya&show_icons=true&theme=tokyonight" alt="Sanidhya's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sanidhya&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-sanidhya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sanidhya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sanidhya&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sanidhya&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-sanidhya&theme=darkhub&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanidhya-shishodia/)
-[![X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iisanidhya)
-
----
-
-⭐ **From [dev-sanidhya](https://github.com/dev-sanidhya)**
-
----
+<div align="center">
+  <sub>4x national hackathon winner · OWASP GSoC 2026 mentor · building in public</sub>
+</div>
