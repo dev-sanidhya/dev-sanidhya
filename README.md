@@ -20,12 +20,11 @@ My work lives at the intersection of agentic AI, Web3, and full-stack - I don't 
 
 ---
 
-### 🔨 What I'm building
+### ⚡ What I'm into
 
-- **Multi-agent orchestration systems** - custom MCP servers, task routing, decision engines powered by Claude
-- **On-chain AI** - autonomous DeFi agents on Base with real-time decision making and x402 micropayments
-- **AI research** - co-authoring a paper on multi-source sentiment analysis for stock markets (VADER + FinBERT)
-- **OWASP GSoC 2026** - mentoring the next wave of open source security contributors
+Systems that think. Agents that act. Code that runs without you.
+I like building things at the edge - where AI meets money, decisions, and scale.
+Also mentoring the next wave of open source contributors at **OWASP x GSoC 2026**.
 
 ---
 
