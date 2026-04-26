@@ -22,9 +22,11 @@ My work lives at the intersection of agentic AI, Web3, and full-stack - I don't 
 
 ### ⚡ What I'm into
 
-Systems that think. Agents that act. Code that runs without you.
-I like building things at the edge - where AI meets money, decisions, and scale.
-Also mentoring the next wave of open source contributors at **OWASP x GSoC 2026**.
+- Systems that think and act on their own
+- AI at the edge - where intelligence meets money and scale
+- On-chain things that don't need a human in the loop
+- Research that turns messy real-world data into something useful
+- Mentoring the next wave of open source contributors @ **OWASP x GSoC 2026**
 
 ---
 
