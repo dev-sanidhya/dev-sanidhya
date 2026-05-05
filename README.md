@@ -62,12 +62,12 @@ My work lives at the intersection of agentic AI, Web3, and full-stack - I don't 
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-sanidhya&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sanidhya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-sanidhya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sanidhya&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sanidhya&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=dev-sanidhya&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
