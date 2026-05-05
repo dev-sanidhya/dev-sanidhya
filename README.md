@@ -65,6 +65,10 @@ My work lives at the intersection of agentic AI, Web3, and full-stack - I don't 
   <img src="https://streak-stats.demolab.com?user=dev-sanidhya&theme=tokyonight&hide_border=true"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-sanidhya&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
 ---
 
 ### 🏆 Highlights
