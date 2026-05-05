@@ -65,9 +65,6 @@ My work lives at the intersection of agentic AI, Web3, and full-stack - I don't 
   <img src="https://streak-stats.demolab.com?user=dev-sanidhya&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/2dba4e/dev-sanidhya" width="100%"/>
-</div>
 
 ---
 
